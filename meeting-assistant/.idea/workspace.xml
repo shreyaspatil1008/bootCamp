@@ -1,0 +1,616 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="26a12f25-2cd5-4ff0-ad72-cd8ad4d1a95c" name="Default" comment="Update" />
+    <ignored path="$PROJECT_DIR$/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileEditorManager">
+    <leaf />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>schedule</find>
+      <find>mini</find>
+      <find>MeetingCalendar</find>
+      <find>(String) meetingResponseFormatter.parse</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>meetingCalendar</replace>
+      <replace>meetingAssistant.format</replace>
+    </replaceStrings>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="projectSyncType">
+      <map>
+        <entry key="C:/NGI/repo/ngi" value="PREVIEW" />
+        <entry key="C:/NGI/repo/ngi/source" value="PREVIEW" />
+      </map>
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/test/java/com/bootcamp/meeting/MeetingCalendarTestData.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bootcamp/meeting/MeetingCalendar.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bootcamp/meeting/MeetingCalendarTest.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bootcamp/meeting/StringMeetingResponseFormatter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bootcamp/meeting/TimeSlot.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bootcamp/meeting/MeetingResponseFormatter.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bootcamp/meeting/Employee.java" />
+        <option value="$PROJECT_DIR$/src/main/java/com/bootcamp/meeting/MeetingAssistant.java" />
+        <option value="$PROJECT_DIR$/src/test/java/com/bootcamp/meeting/MeetingAssistantTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="createModuleGroups" value="true" />
+        <option name="dedicatedModuleDir" value="C:\aMoL\meeting-assistant" />
+        <option name="importAutomatically" value="true" />
+        <option name="lookForNested" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="NodePackageJsonFileManager">
+    <packageJsonPaths />
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="1912" />
+    <option name="y" value="-8" />
+    <option name="width" value="1936" />
+    <option name="height" value="1056" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="PackagesPane" />
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="meeting-assistant" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+            </path>
+            <path>
+              <item name="meeting-assistant" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Extensions" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+            </path>
+            <path>
+              <item name="meeting-assistant" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Extensions" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+              <item name="com.intellij.database" type="1e004dc1:ScratchProjectViewPane$MyRootNode$1$1" />
+            </path>
+            <path>
+              <item name="meeting-assistant" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Extensions" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+              <item name="com.intellij.database" type="1e004dc1:ScratchProjectViewPane$MyRootNode$1$1" />
+              <item name="data" type="1e004dc1:ScratchProjectViewPane$MyRootNode$1$1" />
+            </path>
+            <path>
+              <item name="meeting-assistant" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Extensions" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+              <item name="com.intellij.database" type="1e004dc1:ScratchProjectViewPane$MyRootNode$1$1" />
+              <item name="data" type="1e004dc1:ScratchProjectViewPane$MyRootNode$1$1" />
+              <item name="extractors" type="1e004dc1:ScratchProjectViewPane$MyRootNode$1$1" />
+            </path>
+            <path>
+              <item name="meeting-assistant" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Scratches and Consoles" type="1a2a3e82:ScratchProjectViewPane$MyProjectNode" />
+              <item name="Extensions" type="d62648e6:ScratchProjectViewPane$MyRootNode" />
+              <item name="com.intellij.database" type="1e004dc1:ScratchProjectViewPane$MyRootNode$1$1" />
+              <item name="schema" type="1e004dc1:ScratchProjectViewPane$MyRootNode$1$1" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="SONARLINT_PRECOMMIT_ANALYSIS" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="extract.method.default.visibility" value="private" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../OAuth" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="com.zeroturnaround.javarebel.idea.plugin.settings.startup.StartupConfigurable" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateClassDialog.RecentsKey">
+      <recent name="com.bootcamp.meeting" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.MeetingCalendarTest">
+    <configuration default="true" type="Application" factoryName="Application">
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="MeetingAssistantTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="meeting-assistant" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bootcamp.meeting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.bootcamp.meeting" />
+      <option name="MAIN_CLASS_NAME" value="com.bootcamp.meeting.MeetingAssistantTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="MeetingAssistantTest.shouldReportMeetingSlotTimeFor3Participants" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="meeting-assistant" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bootcamp.meeting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.bootcamp.meeting" />
+      <option name="MAIN_CLASS_NAME" value="com.bootcamp.meeting.MeetingAssistantTest" />
+      <option name="METHOD_NAME" value="shouldReportMeetingSlotTimeFor3Participants" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="MeetingAssistantTest.shouldReportMeetingSlotTimeForSingleParticipant" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="meeting-assistant" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bootcamp.meeting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.bootcamp.meeting" />
+      <option name="MAIN_CLASS_NAME" value="com.bootcamp.meeting.MeetingAssistantTest" />
+      <option name="METHOD_NAME" value="shouldReportMeetingSlotTimeForSingleParticipant" />
+      <option name="TEST_OBJECT" value="method" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="MeetingCalendarTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="meeting-assistant" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bootcamp.meeting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.bootcamp.meeting" />
+      <option name="MAIN_CLASS_NAME" value="com.bootcamp.meeting.MeetingCalendarTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration name="com.bootcamp.meeting in meeting-assistant" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="meeting-assistant" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.bootcamp.meeting.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="com.bootcamp.meeting" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <patterns />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="%MODULE_WORKING_DIR%" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <properties />
+      <listeners />
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.MeetingAssistantTest" />
+      <item itemvalue="JUnit.MeetingCalendarTest" />
+      <item itemvalue="JUnit.MeetingAssistantTest.shouldReportMeetingSlotTimeForSingleParticipant" />
+      <item itemvalue="JUnit.MeetingAssistantTest.shouldReportMeetingSlotTimeFor3Participants" />
+      <item itemvalue="JUnit.com.bootcamp.meeting in meeting-assistant" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.MeetingCalendarTest" />
+        <item itemvalue="JUnit.MeetingAssistantTest" />
+        <item itemvalue="JUnit.com.bootcamp.meeting in meeting-assistant" />
+        <item itemvalue="JUnit.MeetingAssistantTest.shouldReportMeetingSlotTimeFor3Participants" />
+        <item itemvalue="JUnit.MeetingAssistantTest.shouldReportMeetingSlotTimeForSingleParticipant" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\idnamg\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="26a12f25-2cd5-4ff0-ad72-cd8ad4d1a95c" name="Default" comment="" />
+      <created>1530604503459</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1530604503459</updated>
+      <workItem from="1530604507002" duration="19973000" />
+      <workItem from="1530854870724" duration="5904000" />
+      <workItem from="1530863316578" duration="3678000" />
+      <workItem from="1531807690952" duration="718000" />
+      <workItem from="1532007331044" duration="561000" />
+      <workItem from="1532007917653" duration="610000" />
+      <workItem from="1533638704297" duration="22000" />
+    </task>
+    <task id="LOCAL-00001" summary="Update">
+      <created>1530622592366</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1530622592366</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="MeetingAssistantTest_shouldReportMeetingSlotTimeForSingleParticipant - 2018.07.03 at 22h 18m 20s.xml">
+      <configuration name="MeetingAssistantTest.shouldReportMeetingSlotTimeForSingleParticipant" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MeetingAssistantTest_shouldReportMeetingSlotTimeFor3Participants - 2018.07.03 at 22h 23m 49s.xml">
+      <configuration name="MeetingAssistantTest.shouldReportMeetingSlotTimeFor3Participants" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MeetingAssistantTest - 2018.07.03 at 22h 23m 59s.xml">
+      <configuration name="MeetingAssistantTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="com_bootcamp_meeting_in_meeting-assistant - 2018.07.03 at 22h 36m 29s.xml">
+      <configuration name="com.bootcamp.meeting in meeting-assistant" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MeetingAssistantTest - 2018.07.06 at 11h 41m 10s.xml">
+      <configuration name="MeetingAssistantTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MeetingAssistantTest - 2018.07.06 at 11h 41m 17s.xml">
+      <configuration name="MeetingAssistantTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MeetingCalendarTest - 2018.07.06 at 11h 41m 20s.xml">
+      <configuration name="MeetingCalendarTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MeetingAssistantTest - 2018.07.19 at 19h 12m 30s.xml">
+      <configuration name="MeetingAssistantTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MeetingCalendarTest - 2018.07.19 at 19h 12m 35s.xml">
+      <configuration name="MeetingCalendarTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="MeetingCalendarTest - 2018.07.19 at 19h 12m 39s.xml">
+      <configuration name="MeetingCalendarTest" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="31466000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="1912" y="-8" width="1936" height="1056" extended-state="6" />
+    <layout>
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info anchor="bottom" id="TODO" order="15" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info id="Image Layers" order="2" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50161815" side_tool="true" weight="0.3286385" />
+      <window_info anchor="right" id="Maven Projects" order="0" />
+      <window_info anchor="bottom" id="Database Changes" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="5" show_stripe_button="false" sideWeight="0.49838188" weight="0.3286385" />
+      <window_info anchor="bottom" id="Run" order="10" weight="0.3207547" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info id="Designer" order="0" />
+      <window_info active="true" content_ui="combo" id="Project" order="5" visible="true" weight="0.26332623" />
+      <window_info anchor="bottom" id="Gradle View" order="16" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info id="UI Designer" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="11" weight="0.39906102" />
+      <window_info anchor="bottom" id="JRebel Executor" order="6" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.32852387" />
+      <window_info anchor="bottom" id="Inspection" order="14" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="SonarLint" order="3" />
+      <window_info anchor="bottom" id="JRebel Console" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Cvs" order="13" weight="0.25" />
+      <window_info anchor="bottom" id="Message" order="8" />
+      <window_info anchor="bottom" id="Gerrit" order="12" />
+      <window_info id="JRebel" order="1" side_tool="true" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="9" />
+    </layout>
+    <layout-to-restore>
+      <window_info id="Designer" order="0" />
+      <window_info anchor="right" id="Palette" order="5" />
+      <window_info id="JRebel" order="1" side_tool="true" />
+      <window_info id="Image Layers" order="2" />
+      <window_info active="true" anchor="bottom" id="Run" order="10" visible="true" weight="0.32081378" />
+      <window_info anchor="bottom" id="Cvs" order="13" weight="0.25" />
+      <window_info anchor="right" id="Ant Build" order="7" weight="0.25" />
+      <window_info id="UI Designer" order="3" />
+      <window_info id="Favorites" order="4" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="0" />
+      <window_info id="Capture Tool" order="7" />
+      <window_info anchor="right" id="Capture Analysis" order="1" />
+      <window_info anchor="right" id="Commander" order="6" weight="0.4" />
+      <window_info anchor="bottom" id="Event Log" order="1" sideWeight="0.50161815" side_tool="true" weight="0.3286385" />
+      <window_info anchor="bottom" id="Messages" order="2" weight="0.3286385" />
+      <window_info anchor="bottom" id="SonarLint" order="3" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="8" weight="0.25" />
+      <window_info anchor="bottom" id="Gerrit" order="12" />
+      <window_info anchor="bottom" id="Database Changes" order="4" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="5" sideWeight="0.49838188" weight="0.3286385" />
+      <window_info anchor="right" id="Maven Projects" order="0" />
+      <window_info anchor="bottom" id="JRebel Executor" order="6" />
+      <window_info content_ui="combo" id="Project" order="5" visible="true" weight="0.25" />
+      <window_info anchor="bottom" id="JRebel Console" order="7" side_tool="true" />
+      <window_info anchor="right" id="Database" order="2" />
+      <window_info anchor="bottom" id="Message" order="8" />
+      <window_info anchor="bottom" id="TODO" order="15" />
+      <window_info anchor="right" id="Palette&#9;" order="3" />
+      <window_info anchor="right" id="Theme Preview" order="4" />
+      <window_info id="Structure" order="6" side_tool="true" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="14" weight="0.4" />
+      <window_info anchor="bottom" id="Find" order="9" />
+      <window_info anchor="bottom" id="Debug" order="11" weight="0.39906102" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="RECENTLY_FILTERED_USER_GROUPS">
+                <collection />
+              </option>
+              <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+                <collection />
+              </option>
+              <option name="COLUMN_ORDER">
+                <list>
+                  <option value="0" />
+                  <option value="1" />
+                  <option value="2" />
+                  <option value="3" />
+                </list>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Update" />
+    <option name="LAST_COMMIT_MESSAGE" value="Update" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/java/com/bootcamp/meeting/MeetingAssistant.java</url>
+          <line>12</line>
+          <properties />
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/test/java/com/bootcamp/meeting/MeetingAssistantTest.java</url>
+          <line>37</line>
+          <properties />
+          <option name="timeStamp" value="6" />
+        </line-breakpoint>
+      </breakpoints>
+      <option name="time" value="7" />
+    </breakpoint-manager>
+  </component>
+  <component name="debuggerHistoryManager">
+    <expressions id="evaluateExpression">
+      <expression>
+        <expression-string>schedule.containsKey(meetingSlotTime)</expression-string>
+        <language-id>JAVA</language-id>
+        <evaluation-mode>EXPRESSION</evaluation-mode>
+      </expression>
+    </expressions>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bootcamp/meeting/MeetingCalendar.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/bootcamp/meeting/MeetingCalendarTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/bootcamp/meeting/MeetingCalendarTestData.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bootcamp/meeting/MeetingAssistant.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/bootcamp/meeting/MeetingAssistantTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bootcamp/meeting/StringMeetingResponseFormatter.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bootcamp/meeting/Employee.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bootcamp/meeting/MeetingCalendar.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/bootcamp/meeting/MeetingCalendarTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/bootcamp/meeting/MeetingCalendarTestData.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bootcamp/meeting/MeetingAssistant.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/bootcamp/meeting/MeetingAssistantTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bootcamp/meeting/StringMeetingResponseFormatter.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bootcamp/meeting/Employee.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bootcamp/meeting/MeetingCalendar.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/bootcamp/meeting/MeetingCalendarTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bootcamp/meeting/MeetingAssistant.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/bootcamp/meeting/MeetingAssistantTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bootcamp/meeting/StringMeetingResponseFormatter.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/bootcamp/meeting/MeetingCalendarTestData.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bootcamp/meeting/MeetingCalendar.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/bootcamp/meeting/MeetingCalendarTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bootcamp/meeting/MeetingResponseFormatter.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bootcamp/meeting/StringMeetingResponseFormatter.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/bootcamp/meeting/MeetingAssistantTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/bootcamp/meeting/MeetingCalendarTestData.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bootcamp/meeting/MeetingAssistant.java" />
+    <entry file="jar://C:/Programs/java/Java-1.8.40/jre/lib/rt.jar!/java/util/stream/Stream.class" />
+    <entry file="jar://C:/Programs/java/Java-1.8.40/jre/lib/rt.jar!/java/util/Optional.class" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bootcamp/meeting/TimeSlot.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bootcamp/meeting/MeetingCalendar.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bootcamp/meeting/Employee.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bootcamp/meeting/MeetingResponseFormatter.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bootcamp/meeting/StringMeetingResponseFormatter.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/bootcamp/meeting/MeetingCalendarTestData.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/com/bootcamp/meeting/MeetingAssistant.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/bootcamp/meeting/MeetingAssistantTest.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/com/bootcamp/meeting/MeetingCalendarTest.java" />
+    <entry file="file://$PROJECT_DIR$/pom.xml" />
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
